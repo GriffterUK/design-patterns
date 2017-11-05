@@ -2,3 +2,7 @@
 \.idea/
 
 \.gradle/3\.3/taskArtifacts/
+
+build/
+
+gradle/
